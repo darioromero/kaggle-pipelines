@@ -1,3 +1,3 @@
 # kaggle-pipelines
 A *Exploratory Analysis* about `accidents in pipelines` within USA from 2010-present.
-I have copied this over here to have a clean copy of the final submit to **Kaggle**.
+<p>I have copied this over to GitHub to have a clean copy of the final submit to **Kaggle**.</p>
